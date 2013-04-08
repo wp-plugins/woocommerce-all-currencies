@@ -4,7 +4,7 @@ Donate link: http://algoritmika.com/donate/
 Tags: woocommerce,currency,currencies
 Requires at least: 3.5.1
 Tested up to: 3.5.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,9 @@ You need [WooCommerce All Currencies Pro plugin](http://www.algoritmika.com/shop
 1. All worlds currencies are added to WooCommerce -> General Options.
 
 == Changelog ==
+
+= 1.0.2 =
+* Minor bug fixed
 
 = 1.0.1 =
 * Minor bug fixed

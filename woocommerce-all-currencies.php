@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce All Currencies
 Plugin URI: http://www.algoritmika.com/shop/wordpress-woocommerce-all-currencies-plugin/
 Description: Adds all worlds currencies to WooCommerce WordPress Plugin.
-Version: 1.0.1
+Version: 1.0.2
 Author: Algoritmika Ltd.
 Author URI: http://www.algoritmika.com
 License: GPLv2 or later
@@ -381,7 +381,7 @@ if ( ! class_exists( 'wooallcurlite_plugin' ) ) {
 			?>
 		<div class="wrap">
 			<h2>WooCommerce All Currencies Options</h2>			
-			<form method="post" action="options.php">
+			<form method="post">
 				<?php submit_button(); ?>				
 				<div id="message" class="updated">
 					<p><strong><?php _e('You need <a href="http://www.algoritmika.com/shop/wordpress-woocommerce-all-currencies-pro-plugin/">\'WooCommerce All Currencies Pro\'</a> plugin version to change these settings.') ?></strong></p>
